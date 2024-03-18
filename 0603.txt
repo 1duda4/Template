@@ -1,0 +1,6 @@
+concatenar= juntando duas coisas
+caractere= texto
+porta e int são a mesma coisas
+escreval= pular uma linha (l)
+escrever uma variavel nao sera nessecario utilizar (") ou outros sim
+textos deve conter com ("")
